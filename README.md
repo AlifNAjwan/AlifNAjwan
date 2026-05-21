@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm A.N.A.M
+# Hi there! I'm A.N.A.M  
 
 <!-- Banner dengan animasi -->
 
