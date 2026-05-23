@@ -14,7 +14,7 @@ First off, my name is Alif Najwan Azhim Muntazhar, and my signature is A.N.A.M. 
 
 ## Part off: 
 <a href="https://github.com/SansDev-Comunity">
-    <img alt="Sans dev community" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Sansdev&logoColor=orange"/>
+    <img alt="San dev community" src="https://img.shields.io/badge/sansdev-E4405F?style=for-the-badge&logo=sansdev&logoColor=orange"/>
   </a>
 
 <h3 align="center"> Social media </h3>
